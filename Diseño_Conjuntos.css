@@ -1,0 +1,109 @@
+/*Diseñar apartado de conjuntos*/
+
+#Everything {
+    background-color: white;
+    margin-bottom: 75px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.menu {
+    list-style: none;
+    font-family: 'Cabin', sans-serif;
+    padding: 0;
+    background: #7D3C98;
+    width: 100%;
+    max-width: 2000px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -10px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+
+.menu li {
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover {
+    background-color: black
+}
+
+h1 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 900;
+}
+
+h2 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+}
+
+h3 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 800;
+    color: #7D3C98;
+}
+
+h4 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+
+h5 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 300;
+    line-height: 1.3em;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+#Definicion {
+    background-color: #7D3C98;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+}
+
+#Def_Title {
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border: black 2px solid;
+    background-color: #F08080;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+td {
+    border: black 2px solid;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
